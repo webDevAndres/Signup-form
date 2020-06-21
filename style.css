@@ -10,10 +10,9 @@ body {
 
 main {
   margin: 0 auto;
-  width: 500px;
+  width: 800px;
   padding: 0 1em 1em;
   border: 5px solid rgb(110, 142, 184);
-  text-align: center;
   box-shadow: 5px 5px rgb(184, 207, 226);
 }
 
@@ -23,9 +22,9 @@ h1 {
 }
 
 label {
-  float: left;
+  display: inline-block;
   text-align: right;
-  width: 16em;
+  width: 15em;
   padding-bottom: 0.5em;
 }
 
