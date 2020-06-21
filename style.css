@@ -30,13 +30,9 @@ label {
 
 input {
   width: 12em;
-  margin-right: 5em;
   margin-bottom: 0.5em;
 }
 
-#mpg {
-  background-color: rgb(238, 238, 238);
-}
 
 span {
   color: red;
